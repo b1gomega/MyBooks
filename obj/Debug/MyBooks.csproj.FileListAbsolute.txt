@@ -1,0 +1,409 @@
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\MySql.Data.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\Google.Protobuf.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\Zstandard.Net.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\Renci.SshNet.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\System.Memory.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\System.Buffers.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\MySql.Data.xml
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.AutorizationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\bin\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\bin\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\bin\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\bin\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\repos\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\MySql.Data.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Google.Protobuf.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Zstandard.Net.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Renci.SshNet.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\System.Memory.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\System.Buffers.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\MySql.Data.xml
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Xceed.Document.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\bin\Debug\Xceed.Words.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Xceed.Document.NET.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Xceed.Words.NET.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Google.Protobuf.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Zstandard.Net.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\Renci.SshNet.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\System.Memory.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\System.Buffers.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\bin\Debug\MySql.Data.xml
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v2\repos\repos\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\bin\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\bin\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\bin\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\MySql.Data.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Google.Protobuf.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Zstandard.Net.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\Renci.SshNet.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\System.Memory.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\System.Buffers.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\bin\Debug\MySql.Data.xml
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.StartMenuAfterAutorizationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\v3\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\bin\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\bin\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\bin\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.EditForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.StartAdminMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.StartUserMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.AccountInfoForm.resources
+H:\ТСПП\Лабы\lab8_10\v4\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\MySql.Data.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Google.Protobuf.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Zstandard.Net.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\Renci.SshNet.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\System.Memory.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\System.Buffers.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\bin\Debug\MySql.Data.xml
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.AccountInfoForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.EditForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.GetBookToUserForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.StartAdminMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.StartUserMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\v4\v4\v3\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Google.Protobuf.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Zstandard.Net.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Renci.SshNet.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Memory.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Buffers.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MySql.Data.xml
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.exe.config
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AccountInfoForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.EditForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartAdminMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartUserMenuForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.exe
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.pdb
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.GiveBooksForm.resources
+H:\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.TakeBooksForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe.config
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.pdb
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Google.Protobuf.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Zstandard.Net.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\BouncyCastle.Crypto.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Ubiety.Dns.Core.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Renci.SshNet.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Memory.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Buffers.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Compression.LZ4.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\K4os.Hash.xxHash.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Numerics.Vectors.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MySql.Data.xml
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.exe.config
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AccountInfoForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.EditForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.GiveBooksForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartAdminMenuForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartUserMenuForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.TakeBooksForm.resources
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.exe
+D:\Открыть доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.pdb
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe.config
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.exe
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\MyBooks.pdb
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Document.NET.dll
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\bin\Debug\Xceed.Words.NET.dll
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AccountInfoForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.AddBooksForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.EditForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.GiveBooksForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.LoginForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.BooksOutputForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.DeleteBooksForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.RegistrationForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchResultForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXXVariantForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.SearchXYVariantForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartMenuForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.Properties.Resources.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartAdminMenuForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.StartUserMenuForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.TakeBooksForm.resources
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.GenerateResource.cache
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csproj.CopyComplete
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.exe
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.pdb
+D:\Открытый доступ\ТСПП\Лабы\lab8_10\v6\v3\MyBooks\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\MyBooks.pdb
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\MySql.Data.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Xceed.Document.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Xceed.Words.NET.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Google.Protobuf.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Zstandard.Net.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\Renci.SshNet.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\System.Memory.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\System.Buffers.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dimad\OneDrive\Рабочий стол\44444\bin\Debug\MySql.Data.xml
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.csprojAssemblyReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.exe.config
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.csproj.ResolveComReference.cache
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.AccountInfoForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.AddBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.EditForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.GiveBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.LoginForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.BooksOutputForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.DeleteBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.RegistrationForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.SearchResultForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.SearchXXVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.SearchXYVariantForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.StartMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.Properties.Resources.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.StartAdminMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.StartUserMenuForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.TakeBooksForm.resources
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.csproj.GenerateResource.cache
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.csproj.CopyComplete
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.exe
+C:\Users\dimad\OneDrive\Рабочий стол\44444\obj\Debug\MyBooks.pdb
